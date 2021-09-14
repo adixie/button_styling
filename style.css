@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#search {
+    background-color:floralwhite;
+    color:teal;
+    border-color:turquoise;
+    border-radius: 20px;
+    display: inline-block;
+    height: 40px;
+    width: 150px;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+#plus {
+    background-color: turquoise;
+    font-size: larger;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+#account {
+    background-color: blue;
+    border-color: black;
+    color: white;
+    height: 40px;
+    width: 200px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 80px;
+    box-shadow: 10px 5px 0px black;
+}
